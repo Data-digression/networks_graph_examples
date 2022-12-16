@@ -1,0 +1,9 @@
+tweepy
+configparser
+pandas
+jupyter
+tinydb
+networkx
+matplotlib
+scipy
+pyvis
